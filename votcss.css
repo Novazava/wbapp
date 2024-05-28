@@ -6,7 +6,7 @@ body {
     background: var(--tg--theme-bg-color);
     font-family: Arial, sans-serif;
     align-items: center;
-    height: 200vh;
+    height: 130vh;
 }
 
 .container {
